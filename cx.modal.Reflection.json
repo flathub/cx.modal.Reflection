@@ -50,8 +50,8 @@
         {
           "type" : "git",
           "url" : "https://github.com/p2panda/reflection.git",
-          "commit" : "0067de3a9778c8d0b1643de2ca804164176a1ae7",
-          "tag" : "0.2"
+          "commit" : "31b7f055a3974c958652ae1fe053b3135089a0df",
+          "tag" : "0.3"
         },
         "reflection-cargo-sources.json",
         {
