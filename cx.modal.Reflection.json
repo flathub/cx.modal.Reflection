@@ -46,6 +46,9 @@
     {
       "name" : "reflection",
       "buildsystem" : "meson",
+      "config-opts": [
+        "-Dbuildtype=release"
+      ],
       "sources" : [
         {
           "type" : "git",
