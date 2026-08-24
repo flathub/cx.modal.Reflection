@@ -4279,14 +4279,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/loro/loro-1.13.6.crate",
-        "sha256": "221b567f34e3a7b38d05345b17797a7ca252d28e1fae479b4bb55c1a19616ddc",
-        "dest": "cargo/vendor/loro-1.13.6"
+        "url": "https://static.crates.io/crates/loro/loro-1.13.9.crate",
+        "sha256": "09ea00f70c1acad4b7a05aaf72c1d9a671426021a1999ee821c77b56f0a15900",
+        "dest": "cargo/vendor/loro-1.13.9"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"221b567f34e3a7b38d05345b17797a7ca252d28e1fae479b4bb55c1a19616ddc\", \"files\": {}}",
-        "dest": "cargo/vendor/loro-1.13.6",
+        "contents": "{\"package\": \"09ea00f70c1acad4b7a05aaf72c1d9a671426021a1999ee821c77b56f0a15900\", \"files\": {}}",
+        "dest": "cargo/vendor/loro-1.13.9",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -4318,27 +4318,27 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/loro-internal/loro-internal-1.13.6.crate",
-        "sha256": "fb15cd83866965b50b4893246699312624808a1f2e2d205432237287d947b822",
-        "dest": "cargo/vendor/loro-internal-1.13.6"
+        "url": "https://static.crates.io/crates/loro-internal/loro-internal-1.13.9.crate",
+        "sha256": "6fec47acf8db115b7146da5e1d5b18d0cf58032e6012c0c1ee3ec3442d1e936f",
+        "dest": "cargo/vendor/loro-internal-1.13.9"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"fb15cd83866965b50b4893246699312624808a1f2e2d205432237287d947b822\", \"files\": {}}",
-        "dest": "cargo/vendor/loro-internal-1.13.6",
+        "contents": "{\"package\": \"6fec47acf8db115b7146da5e1d5b18d0cf58032e6012c0c1ee3ec3442d1e936f\", \"files\": {}}",
+        "dest": "cargo/vendor/loro-internal-1.13.9",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/loro-kv-store/loro-kv-store-1.13.1.crate",
-        "sha256": "950cc8bcc64dcff536e949fbc56ccc3d0759646fa441c7f76b3cd7c3eafa2096",
-        "dest": "cargo/vendor/loro-kv-store-1.13.1"
+        "url": "https://static.crates.io/crates/loro-kv-store/loro-kv-store-1.13.9.crate",
+        "sha256": "937f88e4a3d80d5853f5119753f5e5f68d4375726db7e9b3d6dac9db8167e8bf",
+        "dest": "cargo/vendor/loro-kv-store-1.13.9"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"950cc8bcc64dcff536e949fbc56ccc3d0759646fa441c7f76b3cd7c3eafa2096\", \"files\": {}}",
-        "dest": "cargo/vendor/loro-kv-store-1.13.1",
+        "contents": "{\"package\": \"937f88e4a3d80d5853f5119753f5e5f68d4375726db7e9b3d6dac9db8167e8bf\", \"files\": {}}",
+        "dest": "cargo/vendor/loro-kv-store-1.13.9",
         "dest-filename": ".cargo-checksum.json"
     },
     {
